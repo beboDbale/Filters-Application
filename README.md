@@ -6,3 +6,4 @@ The library consists of two files bmplib.cpp and bmplib.h.
 
 this program deals only with images with BMP extension
 images must be in the same directory
+enter image file name wihtout bmp
